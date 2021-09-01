@@ -34,5 +34,15 @@ export const usePagesContextValue = () => [
       'keywords': 'Contacts page keywords',
       'description': 'Contacts page description'
     }
+  },
+  {
+    'id': 4,
+    'name': 'Not found page',
+    'code': 'not-found',
+    'seo': {
+      'title': 'Not found page',
+      'keywords': null,
+      'description': null
+    }
   }
 ]
