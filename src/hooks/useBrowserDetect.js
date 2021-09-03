@@ -1,4 +1,3 @@
-
 import React, { useEffect } from 'react'
 import { browserName, browserVersion, isMobile } from 'react-device-detect'
 

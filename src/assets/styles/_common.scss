@@ -10,7 +10,8 @@
   flex-direction: column;
   height: 100%;
 
-  main {
+  > div.container, // for ie11
+  > main {
     flex: 1;
   }
 }
