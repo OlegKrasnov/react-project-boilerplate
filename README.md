@@ -1,5 +1,5 @@
 # React Project Boilerplate
-Basic template for a React project.
+Basic template for a React project. With IE11 support.
 
 # Getting started
 
