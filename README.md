@@ -1,5 +1,5 @@
 # React Project Boilerplate
-Basic template for a React project. With IE11 support.
+Basic template for a React project. With IE11 support and displaying a message about unsupported browsers of your choice.
 
 # Getting started
 
