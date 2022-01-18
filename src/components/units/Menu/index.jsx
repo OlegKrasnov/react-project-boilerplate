@@ -8,13 +8,13 @@ const menuClassName = 'menu'
 const Menu = () => (
   <div className={menuClassName}>
     <nav>
-      <Link exact to="/">
+      <Link to="/">
         Home
       </Link>
-      <Link exact to="/about/">
+      <Link to="/about/">
         About
       </Link>
-      <Link exact to="/contacts/">
+      <Link to="/contacts/">
         Contacts
       </Link>
     </nav>
